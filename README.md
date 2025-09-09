@@ -52,7 +52,7 @@ I’m passionate about:
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=py,postgres,mysql,sqlite,excel,powerbi,git,github,vscode" />
+    <img src="https://skillicons.dev/icons?i=py,postgres,mysql,sqlite,git,github,vscode" />
   </a>
 </p>
 
