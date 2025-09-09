@@ -4,7 +4,8 @@
 
 ![Visitor Count](https://komarev.com/ghpvc/?username=meerabfatimaa&color=blue)
 
-<img src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" alt="Data Analytics Banner" width="100%">
+<img src="https://cdn.dribbble.com/users/1138875/screenshots/14400720/media/6b0a1d2030f1a56657bc24a66f9a6d9e.gif" alt="Business Analytics Banner" width="100%">
+
 
 ---
 
