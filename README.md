@@ -12,10 +12,7 @@
 
 ## 👩‍💻 About Me  
 
-I’m an *enthusiastic Business Administration student* at **IBA, University of the Punjab**, with a strong curiosity about how businesses work and grow.  
-Although I’m still building my professional journey, I’m a *quick learner* who enjoys applying classroom knowledge to *real-life projects and internships*.  
-
-Currently, I’m exploring *Data Analytics, Business Intelligence, and Digital Tools* to bridge the gap between *business strategy and data-driven decision making*.  
+I’m an *enthusiastic Business Administration student* at **IBA, University of the Punjab**, with a strong curiosity about how businesses work and grow. Although I’m still building my professional journey, I’m a *quick learner* who enjoys applying classroom knowledge to *real-life projects and internships*. Currently, I’m exploring *Data Analytics, Business Intelligence, and Digital Tools* to bridge the gap between *business strategy and data-driven decision making*.  
 
 ---
 
