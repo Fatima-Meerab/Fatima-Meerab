@@ -4,7 +4,8 @@
 
 ![Visitor Count](https://komarev.com/ghpvc/?username=meerabfatimaa&color=blue)
 
-<img src="https://cdn.dribbble.com/users/1138875/screenshots/14400720/media/6b0a1d2030f1a56657bc24a66f9a6d9e.gif" alt="Business Analytics Banner" width="100%">
+<img src="https://cdn.dribbble.com/users/926537/screenshots/4502924/data2.gif" alt="Data Science Banner" width="100%">
+
 
 
 ---
@@ -72,20 +73,20 @@ I’m passionate about:
 
 <details> <summary>Click to Expand 📈</summary> <br/> 
 <p align="center">
-  <a href="https://github.com/meerabfatimaa">
-    <img src="https://github-readme-stats.vercel.app/api?username=meerabfatimaa&show_icons=true&count_private=true&title_color=00FFFF&text_color=FFFFFF&icon_color=00FFFF&bg_color=0D1117&hide_border=true" alt="GitHub Stats"/>
+  <a href="https://github.com/Fatima-Meerab">
+    <img src="https://github-readme-stats.vercel.app/api?username=Fatima-Meerab&show_icons=true&count_private=true&title_color=00FFFF&text_color=FFFFFF&icon_color=00FFFF&bg_color=0D1117&hide_border=true" alt="GitHub Stats"/>
   </a>
 </p>
 
 <p align="center">
-  <a href="https://github.com/meerabfatimaa">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=meerabfatimaa&theme=react&hide_border=true&background=0D1117&stroke=00FFFF&ring=00FFFF&currStreakLabel=FFFFFF&sideNums=FFFFFF&sideLabels=FFFFFF" alt="GitHub Streak"/>
+  <a href="https://github.com/Fatima-Meerab">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=Fatima-Meerab&theme=react&hide_border=true&background=0D1117&stroke=00FFFF&ring=00FFFF&currStreakLabel=FFFFFF&sideNums=FFFFFF&sideLabels=FFFFFF" alt="GitHub Streak"/>
   </a>
 </p>
 
 <p align="center">
-  <a href="https://github.com/meerabfatimaa">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=meerabfatimaa&langs_count=10&layout=compact&theme=react&hide_border=true&bg_color=0D1117&title_color=00FFFF&text_color=FFFFFF" alt="Top Languages"/>
+  <a href="https://github.com/Fatima-Meerab">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Fatima-Meerab&langs_count=10&layout=compact&theme=react&hide_border=true&bg_color=0D1117&title_color=00FFFF&text_color=FFFFFF" alt="Top Languages"/>
   </a>
 </p>
 </details>
