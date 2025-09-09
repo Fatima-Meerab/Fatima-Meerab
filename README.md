@@ -4,7 +4,7 @@
 
 ![Visitor Count](https://komarev.com/ghpvc/?username=meerabfatimaa&color=blue)
 
-<img src="https://64.media.tumblr.com/61d4fea89f86eb4cb5a7e616d9cd4832/tumblr_owi25v6uAo1r4gsiio1_1280.gif" alt="Cyber Tech Banner" width="100%">
+<img src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" alt="Data Analytics Banner" width="100%">
 
 ---
 
@@ -16,6 +16,7 @@ Although I’m still building my professional journey, I’m a *quick learner* w
 Currently, I’m exploring *Data Analytics, Business Intelligence, and Digital Tools* to bridge the gap between *business strategy and data-driven decision making*.  
 
 ---
+
 
 ## ⚡ What Drives Me  
 
