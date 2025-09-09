@@ -1,6 +1,6 @@
 # Hello World! 👋 My name is *Meerab Fatima*
 
-### Aspiring Data Analyst | Business Administration Student | Lifelong Learner  
+### Aspiring Data Analyst | Business Administration Student   
 
 ![Visitor Count](https://komarev.com/ghpvc/?username=meerabfatimaa&color=blue)
 
