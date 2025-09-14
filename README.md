@@ -1,10 +1,11 @@
-# Hello World! 👋 My name is *Meerab Fatima*
+# Hello World! 👋  Meerab Fatima here
 
 ### Aspiring Data Analyst | Business Administration Student   
 
 ![Visitor Count](https://komarev.com/ghpvc/?username=meerabfatimaa&color=blue)
 
-<img src="https://cdn.dribbble.com/users/926537/screenshots/4502924/data2.gif" alt="Data Science Banner" width="100%">
+
+<img src="https://cdn.dribbble.com/users/926537/screenshots/4502924/data2.gif" alt="Business Data Banner" width="100%">
 
 
 
@@ -12,7 +13,7 @@
 
 ## 👩‍💻 About Me  
 
-I’m an *enthusiastic Business Administration student* at **IBA, University of the Punjab**, with a strong curiosity about how businesses work and grow. Although I’m still building my professional journey, I’m a *quick learner* who enjoys applying classroom knowledge to *real-life projects and internships*. Currently, I’m exploring *Data Analytics, Business Intelligence, and Digital Tools* to bridge the gap between *business strategy and data-driven decision making*.  
+I’m an *enthusiastic Business Administration student* at **IBA, University of the Punjab**, with a strong curiosity about how businesses work and grow. Although I’m still building my professional journey, I’m a *quick learner* who enjoys applying classroom knowledge to *real-life projects*. Currently, I’m exploring *Data Analytics, Business Intelligence, and Digital Tools* to bridge the gap between *business strategy and data-driven decision making*.  
 
 ---
 
@@ -31,9 +32,10 @@ For me, *learning never stops*. Every new skill is a stepping stone.
 ## 🌐 Beyond Academics  
 
 I’m passionate about:  
-- 📈 *Entrepreneurship & Analytics* – solving problems through data  
-- 🌍 *Collaborations* – working with teams on real-world projects  
-- 📚 *Continuous Learning* – building skills that make an impact  
+- 📊 Data driven problem solving
+- 📚 Continuous learning 
+- 🌍 working with teams on real-world projects  
+- 💡 building skills that make an impact  
 
 ---
 
@@ -41,7 +43,6 @@ I’m passionate about:
 
 - 🌍 Based in *Lahore, Pakistan*  
 - ✉️ Reach me at *[meerabfatimaa1100@gmail.com](mailto:meerabfatimaa1100@gmail.com)*  
-- 👥 Open to collaborate on *business & data projects*  
 - 💬 Fun fact: I find analyzing data oddly therapeutic 📊✨  
 
 ---
